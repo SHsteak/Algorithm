@@ -8,9 +8,9 @@
 import java.util.HashMap;
 public class Solution {
 	public static void main(String[] args) {
+		// TODO Auto-generated method stub
 		String[][] test_case = {{"yellow_hat", "headgear"}, {"blue_sunglasses", "eyewear"}, {"green_turban", "headgear"}};
 		System.out.println(new Solution().solution(test_case));
-		// TODO Auto-generated method stub
 	}
 	
 	public int solution(String[][] clothes) {
